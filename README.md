@@ -9,7 +9,7 @@
 
   
 - **Descrição:**
-  - O projeto Smartooth AI é uma solução inteligente para o setor odontológico, projetada para fornecer recomendações e monitoramento personalizados. Utilizamos Docker e Docker Compose para realizar o deployment dos componentes em uma arquitetura de nuvem híbrida.
+  - O projeto Smartooth AI é uma solução inteligente para o setor odontológico, projetada para fornecer recomendações e monitoramento personalizados. Utilizamos Docker e Docker Compose para realizar o deployment dos componentes em uma arquitetura de nuvem híbrida, utilizadando recursos de PaaS. Nessa primeira etapa do deploy na cloud, obtivemos sucesso criando um contâiner Docker para a nossa API em Spring Java, mas nas próximas sprints pretendemos unificar mais partes do nosso sistema na nossa cloud com Docker e Kubernetes, otimizando nossa esteira de produção de forma segura, com baixa latência e eficiencia para um sistema que atenderá milhares de pessoas como o Smartooth AI. Mais detalhes da nossa solução estarão disponíveis no PDF da Sprint 2.
 
 - **Requisitos**
   - Docker
