@@ -46,5 +46,5 @@ docker-compose up -d
 README.md: Instruções de deploy e detalhes do projeto.
 
 - **Testes**
-  - Após o deployment, acesse http://localhost:8080 para verificar o backend.
+  - Após o deployment, acesse http://localhost:8080 para verificar o back-end.
 Use a aplicação mobile para se conectar ao backend e testar as funcionalidades.
